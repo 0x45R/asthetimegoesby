@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 1b02472837f5dd5f2b73911691b0b939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4863376513923204046
+    second: Caterpillar_0
+  - first:
+      213: -3753834092691748406
+    second: Caterpillar_1
+  - first:
+      213: -3174928797884692417
+    second: Caterpillar_2
+  - first:
+      213: 2680812555981920455
+    second: Caterpillar_3
+  - first:
+      213: -239019090028200072
+    second: Caterpillar_4
+  - first:
+      213: -1189158886552009079
+    second: Caterpillar_5
+  - first:
+      213: 5105162496574743655
+    second: Caterpillar_6
+  - first:
+      213: 61577824170808703
+    second: Caterpillar_7
+  - first:
+      213: -757951768632340131
+    second: Caterpillar_8
+  - first:
+      213: 3443302558501649479
+    second: Caterpillar_9
+  - first:
+      213: -4453572295138702993
+    second: Caterpillar_10
+  - first:
+      213: 1874716835371518163
+    second: Caterpillar_11
+  - first:
+      213: 7656236010438145368
+    second: Caterpillar_12
+  - first:
+      213: -5689904796777760969
+    second: Caterpillar_13
+  - first:
+      213: 6720880914897628387
+    second: Caterpillar_14
+  - first:
+      213: 5337066451915421392
+    second: Caterpillar_0
+  - first:
+      213: -1399447763375635535
+    second: Caterpillar_1
+  - first:
+      213: 2437052031193548596
+    second: Caterpillar_2
+  - first:
+      213: -5079916943797883969
+    second: Caterpillar_3
+  - first:
+      213: -6827508941023674958
+    second: Caterpillar_4
+  - first:
+      213: 7455299848926048487
+    second: Caterpillar_5
+  - first:
+      213: 5690937145766198959
+    second: Caterpillar_25
+  - first:
+      213: -536900944417637883
+    second: Caterpillar_26
+  - first:
+      213: 1474599867916209972
+    second: Caterpillar_27
+  - first:
+      213: 4301756962827307694
+    second: Caterpillar_28
+  - first:
+      213: 2918839751680996676
+    second: Caterpillar_29
+  - first:
+      213: 3255866149012988056
+    second: Caterpillar_30
+  - first:
+      213: -6166793916700332055
+    second: Caterpillar_31
+  - first:
+      213: -4353614411094779279
+    second: Caterpillar_32
+  - first:
+      213: 632810425992220430
+    second: Caterpillar_33
+  - first:
+      213: 7661152793083094963
+    second: Caterpillar_34
+  - first:
+      213: -1690702198224645459
+    second: Caterpillar_35
+  - first:
+      213: -8032799414441310799
+    second: Caterpillar_36
+  - first:
+      213: -6938682984767792499
+    second: Caterpillar_37
+  - first:
+      213: 3461196023307335773
+    second: Caterpillar_38
+  - first:
+      213: -3975748517143043960
+    second: Caterpillar_39
+  - first:
+      213: 2634432239557305876
+    second: Caterpillar_40
+  - first:
+      213: -7930798470329499088
+    second: Caterpillar_41
+  - first:
+      213: 8513059554175826831
+    second: Caterpillar_42
+  - first:
+      213: 6864491266491329625
+    second: Caterpillar_43
+  - first:
+      213: 1936520509634373307
+    second: Caterpillar_44
+  - first:
+      213: 1640497853467091329
+    second: Caterpillar_45
+  - first:
+      213: -8398303807073914774
+    second: Caterpillar_46
+  - first:
+      213: -3102185522847527634
+    second: Caterpillar_47
+  - first:
+      213: -5524816958396033640
+    second: Caterpillar_48
+  - first:
+      213: 1894047729027400328
+    second: Caterpillar_49
+  - first:
+      213: 5567306389486578786
+    second: Caterpillar_50
+  - first:
+      213: -8255876370567034614
+    second: Caterpillar_51
+  - first:
+      213: 2298648735930515366
+    second: Caterpillar_52
+  - first:
+      213: 3358194307465946523
+    second: Caterpillar_53
+  - first:
+      213: 2560113293645536454
+    second: Caterpillar_54
+  - first:
+      213: 8612326556704261163
+    second: Caterpillar_55
+  - first:
+      213: 3578105679180927692
+    second: Caterpillar_56
+  - first:
+      213: -5057531461187598053
+    second: Caterpillar_57
+  - first:
+      213: 6413193263810653532
+    second: Caterpillar_58
+  - first:
+      213: 8416964575160766762
+    second: Caterpillar_59
+  - first:
+      213: -5139711478081349221
+    second: Caterpillar_60
+  - first:
+      213: -8753988954713856903
+    second: Caterpillar_61
+  - first:
+      213: -5853358296216426435
+    second: Caterpillar_62
+  - first:
+      213: 5413469284623931951
+    second: Caterpillar_63
+  - first:
+      213: -7051336157410294779
+    second: Caterpillar_64
+  - first:
+      213: -3908454017283604240
+    second: Caterpillar_65
+  - first:
+      213: 3377666207862286346
+    second: Caterpillar_66
+  - first:
+      213: -2866396198551323589
+    second: Caterpillar_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caterpillar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6b21939a1111a40800000000000000
+      internalID: 5337066451915421392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c74e7ca9249ce0800000000000000
+      internalID: -1399447763375635535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4378f6a09e522d120800000000000000
+      internalID: 2437052031193548596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb607444728089b0800000000000000
+      internalID: -5079916943797883969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfa75bac0df31a0800000000000000
+      internalID: -6827508941023674958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b24576bb867760800000000000000
+      internalID: 7455299848926048487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
